@@ -1,5 +1,5 @@
 title: JTD
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Jeykll site using the Just the Docs theme with Jekyll-Scholar plugin
 theme: just-the-docs
 
 url: https://geoffrowland.github.io/jtd/
