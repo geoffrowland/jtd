@@ -1,4 +1,4 @@
-# just-the-docs-template
+# just-the-docs
 
 https://geoffrowland.github.io/jtd/
 
